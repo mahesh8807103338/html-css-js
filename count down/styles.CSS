@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+
+}
+ body{
+width: 100vw;
+height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('./istockphoto-1341408852-640x640.jpg');
+color: azure;
+background-size: cover;
+ }   
+
+.time{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+p{
+    font-size: 12px;
+}
+.newyear{
+    font-size: 50px;
+}
+.box{
+    width: 50px;
+    height: 50px;
+    
+}
